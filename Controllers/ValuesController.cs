@@ -20,7 +20,7 @@ namespace Project.Controllers
             // Console.WriteLine(c1.GetInt());
             DataBase database = new DataBase();
             MySqlConnection connection = database.GetConnection();
-            if (connection ==null)
+            if (connection == null)
             {
                 Console.WriteLine("접속 오류");
             }
