@@ -15,8 +15,7 @@ namespace Project.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            Class1 c1 = new Class1();
-            Console.WriteLine(c1.GetInt());
+            
             return new string[] { "value1", "value2" };
         }
 
