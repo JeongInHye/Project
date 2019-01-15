@@ -12,3 +12,5 @@ C:\Users\GD10\Project\obj\Debug\netcoreapp2.2\Project.AssemblyInfo.cs
 C:\Users\GD10\Project\obj\Debug\netcoreapp2.2\Project.RazorTargetAssemblyInfo.cache
 C:\Users\GD10\Project\obj\Debug\netcoreapp2.2\Project.dll
 C:\Users\GD10\Project\obj\Debug\netcoreapp2.2\Project.pdb
+C:\Users\GD10\Project\bin\Debug\netcoreapp2.2\190115.dll
+C:\Users\GD10\Project\obj\Debug\netcoreapp2.2\Project.csproj.CopyComplete
